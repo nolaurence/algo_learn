@@ -1,4 +1,4 @@
-package cn.nolaurence.good;
+package cn.nolaurence.good.sw;
 
 import java.util.ArrayList;
 import java.util.HashMap;

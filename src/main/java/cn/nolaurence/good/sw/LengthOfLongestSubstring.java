@@ -1,4 +1,4 @@
-package cn.nolaurence.good;
+package cn.nolaurence.good.sw;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -27,6 +27,7 @@ public class LengthOfLongestSubstring {
 
                 window.put(d, window.getOrDefault(d, 0)-1);
             }
+            // 这里更新答案
             result = Math.max(result, right - left);
         }
 

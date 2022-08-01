@@ -1,4 +1,4 @@
-package cn.nolaurence.good;
+package cn.nolaurence.good.sw;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -10,7 +10,7 @@ import java.util.HashMap;
  * @Description: Demo
  * @Date: 2022/7/4
  */
-public class Demo {
+public class MinWindowSubstring {
     public String minWindow(String s, String t) {
         if (s.length() == 0 || t.length() == 0) {
             return "";
@@ -109,7 +109,7 @@ public class Demo {
     }
 
     public static void main(String[] args) {
-        Demo demo = new Demo();
+        MinWindowSubstring minWindowSubstring = new MinWindowSubstring();
 //        String testS = "ADOBECODEBANC", testT = "ABC";
         String filenameS = "src/main/resources/s.txt";
         String filenameT = "src/main/resources/t.txt";
@@ -120,7 +120,7 @@ public class Demo {
 
 //        System.out.println(badS);
 //        System.out.println(badT);
-        String result = demo.minWindow(badS, badT);
+        String result = minWindowSubstring.minWindow(badS, badT);
         System.out.println(result);
         System.out.println(result.equals(badTC));
     }
