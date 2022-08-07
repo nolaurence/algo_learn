@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="添加leetcode 3">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/FindEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/HasCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/sw/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/MergeKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/MiddleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/ReverseKGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/CheckInclusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/sw/CheckInclusion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/sw/MinWindowSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/FindAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/sw/FindAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/sw/LengthOfLongestSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,17 +42,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nolau/Desktop/algo_learn&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nolau/Desktop/algo_learn",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nolau\Desktop\good\src\main\resources" />
@@ -138,7 +132,10 @@
       <workItem from="1657719578736" duration="1312000" />
       <workItem from="1658931433346" duration="7508000" />
       <workItem from="1659279065602" duration="611000" />
-      <workItem from="1659360769266" duration="1780000" />
+      <workItem from="1659360769266" duration="2588000" />
+      <workItem from="1659446490334" duration="3594000" />
+      <workItem from="1659624929022" duration="2908000" />
+      <workItem from="1659857112945" duration="9882000" />
     </task>
     <task id="LOCAL-00001" summary="添加leetcode 567">
       <created>1657241293379</created>
@@ -161,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657549966173</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加leetcode 3">
+      <created>1659362669281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659362669281</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
