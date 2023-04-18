@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="sync">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode297.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode341.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode501.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode559.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode652.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode965.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode1099.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/Leetcode27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/Leetcode283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/Leetcode977.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/nolaurence/concurrent/rw/ReadWriteLockDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2BU8qDUcrImcM8XzDBPULBD29DM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -90,33 +88,7 @@
       <recent name="C:\Users\nolau\Desktop\good\src\main\java\cn\nolaurence\good" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadWriteLockDemo">
-    <configuration name="PreciselyNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.concurrent.PreciselyNotify" />
-      <module name="algo_learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.nolaurence.concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.concurrent.ProducerConsumer" />
-      <module name="algo_learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.nolaurence.concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LeetCode240.test">
     <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.nolaurence.concurrent.rw.ReadWriteLockDemo" />
       <module name="algo_learn" />
@@ -143,26 +115,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeImportant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.concurrent.SomeImportant" />
+    <configuration name="LeetCode240.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.nolaurence.concurrent.*" />
+          <option name="PATTERN" value="cn.nolaurence.good.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="cn.nolaurence.good.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.good.linkedlist.LeetCode240" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode42.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.nolaurence.good.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.nolaurence.good.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.good.linkedlist.LeetCode42" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leetcode283.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.nolaurence.good.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.nolaurence.good.linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.good.linkedlist.Leetcode283" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode240.test" />
+        <item itemvalue="JUnit.LeetCode42.test" />
+        <item itemvalue="JUnit.Leetcode283.test" />
         <item itemvalue="Application.ReadWriteLockDemo" />
         <item itemvalue="Application.SemaphoreDemo" />
-        <item itemvalue="Application.SomeImportant" />
-        <item itemvalue="Application.PreciselyNotify" />
-        <item itemvalue="Application.ProducerConsumer" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +216,15 @@
       <workItem from="1680532989852" duration="8847000" />
       <workItem from="1681029477336" duration="2045000" />
       <workItem from="1681172943385" duration="1242000" />
-      <workItem from="1681221477308" duration="3807000" />
+      <workItem from="1681221477308" duration="8606000" />
+      <workItem from="1681739615887" duration="1620000" />
+      <workItem from="1681741251182" duration="249000" />
+      <workItem from="1681741513321" duration="63000" />
+      <workItem from="1681741586314" duration="65000" />
+      <workItem from="1681741665197" duration="1491000" />
+      <workItem from="1681825776329" duration="907000" />
+      <workItem from="1681826705912" duration="197000" />
+      <workItem from="1681826918554" duration="4054000" />
     </task>
     <task id="LOCAL-00001" summary="添加leetcode 567">
       <created>1657241293379</created>
@@ -260,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672755364185</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="sync">
+      <created>1681225766376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681225766376</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
