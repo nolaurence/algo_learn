@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="sync">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode589.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode652.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/bt/Leetcode965.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode1099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode240.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/LeetCode42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/Leetcode27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/Leetcode283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/Leetcode977.java" afterDir="false" />
+    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="0417  0418">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/Leetcode15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +213,9 @@
       <workItem from="1681741665197" duration="1491000" />
       <workItem from="1681825776329" duration="907000" />
       <workItem from="1681826705912" duration="197000" />
-      <workItem from="1681826918554" duration="4054000" />
+      <workItem from="1681826918554" duration="4259000" />
+      <workItem from="1682001409493" duration="892000" />
+      <workItem from="1682147815137" duration="7557000" />
     </task>
     <task id="LOCAL-00001" summary="添加leetcode 567">
       <created>1657241293379</created>
@@ -282,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681225766376</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0417  0418">
+      <created>1681831163488</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681831163488</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +303,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="add java concurrent related docs" />
     <MESSAGE value="sync" />
-    <option name="LAST_COMMIT_MESSAGE" value="sync" />
+    <MESSAGE value="0417  0418" />
+    <option name="LAST_COMMIT_MESSAGE" value="0417  0418" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
