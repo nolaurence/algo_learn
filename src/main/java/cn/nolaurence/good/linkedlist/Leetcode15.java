@@ -1,5 +1,7 @@
 package cn.nolaurence.good.linkedlist;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -181,5 +183,12 @@ public class Leetcode15 {
         return res.toArray(new int[res.size()][]);
     }
 
-
+    @Test
+    public void test() {
+        int[] nums = new int[]{1, 0, -1, 0, -2, 2};
+        int[][] res = threeSumTarget(nums, 0);
+        for (int[] arr : res) {
+            System.out.println(Arrays.toString(arr));
+        }
+    }
 }
