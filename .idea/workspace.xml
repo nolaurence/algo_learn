@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="feat: 改变good的模块名 + 引入fastjson方便输出">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode354.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode704.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode74.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/dp/LeetCode300.java" afterDir="false" />
+    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="feat: 做了六道题">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode392.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +227,7 @@
       <workItem from="1681826918554" duration="4259000" />
       <workItem from="1682001409493" duration="892000" />
       <workItem from="1682147815137" duration="16387000" />
-      <workItem from="1713539406785" duration="12812000" />
+      <workItem from="1713539406785" duration="14900000" />
     </task>
     <task id="LOCAL-00001" summary="添加leetcode 567">
       <created>1657241293379</created>
@@ -312,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713597581372</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat: 做了六道题">
+      <option name="closed" value="true" />
+      <created>1713607534444</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713607534444</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,7 +341,8 @@
     <MESSAGE value="0417  0418" />
     <MESSAGE value="0422" />
     <MESSAGE value="feat: 改变good的模块名 + 引入fastjson方便输出" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 改变good的模块名 + 引入fastjson方便输出" />
+    <MESSAGE value="feat: 做了六道题" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 做了六道题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
