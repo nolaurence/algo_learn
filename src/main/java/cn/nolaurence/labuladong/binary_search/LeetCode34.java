@@ -1,5 +1,7 @@
 package cn.nolaurence.labuladong.binary_search;
 
+import com.alibaba.fastjson2.JSON;
+
 public class LeetCode34 {
 
     public int[] searchRange(int[] nums, int target) {
@@ -57,6 +59,6 @@ public class LeetCode34 {
         int target = 8;
 
         LeetCode34 instance = new LeetCode34();
-        System.out.println();
+        System.out.println(JSON.toJSONString(instance.searchRange(nums, target)));
     }
 }
