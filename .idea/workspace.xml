@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="feat: lc 23">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/dp/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="feat: coin change and permutation">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/BroadFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/NQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/PlusOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,7 +258,7 @@
       <workItem from="1713539406785" duration="14900000" />
       <workItem from="1713795130216" duration="4980000" />
       <workItem from="1713881100469" duration="204000" />
-      <workItem from="1713881319731" duration="2559000" />
+      <workItem from="1713881319731" duration="4221000" />
     </task>
     <task id="LOCAL-00001" summary="添加leetcode 567">
       <created>1657241293379</created>
@@ -362,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713800107220</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat: coin change and permutation">
+      <option name="closed" value="true" />
+      <created>1713885755198</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713885755198</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +399,8 @@
     <MESSAGE value="feat: 做了六道题" />
     <MESSAGE value="feat: 做了链表几道题" />
     <MESSAGE value="feat: lc 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: lc 23" />
+    <MESSAGE value="feat: coin change and permutation" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: coin change and permutation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
