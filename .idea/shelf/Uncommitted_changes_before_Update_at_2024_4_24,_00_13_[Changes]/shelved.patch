@@ -1,0 +1,184 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"88c33fb0-bb06-4a58-9035-28f9b6a93296\" name=\"Changes\" comment=\"feat: 做了链表几道题\">\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/linkedlist/LeetCode23.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n    \"state\": \"OPEN\",\n    \"assignee\": \"nolaurence\"\n  }\n}]]></component>\n  <component name=\"GitToolBoxStore\">\n    <option name=\"projectConfigVersion\" value=\"5\" />\n  </component>\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\n  \"selectedUrlAndAccountId\": {\n    \"url\": \"https://github.com/nolaurence/algo_learn\",\n    \"accountId\": \"7c16cbf0-9c23-4e39-ab90-a0c53b5310d8\"\n  }\n}]]></component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/LinkedList.java\" root0=\"FORCE_HIGHLIGHTING\" />\n    <setting file=\"jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/PriorityQueue.java\" root0=\"FORCE_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/DeleteDuplicates.java\" root0=\"FORCE_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/ListNode.java\" root0=\"FORCE_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/MergeKLists.java\" root0=\"FORCE_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/MiddleNode.java\" root0=\"FORCE_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/RemoveNthFromEnd.java\" root0=\"FORCE_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/ReverseBetween.java\" root0=\"FORCE_HIGHLIGHTING\" />\n    <setting file=\"file://$PROJECT_DIR$/src/main/java/cn/nolaurence/good/linkedlist/ReverseKGroup.java\" root0=\"FORCE_HIGHLIGHTING\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"MavenImportPreferences\">\n    <option name=\"generalSettings\">\n      <MavenGeneralSettings>\n        <option name=\"customMavenHome\" value=\"E:/DevEnvironment/apache-maven-3.8.3\" />\n        <option name=\"mavenHomeTypeForPersistence\" value=\"CUSTOM\" />\n      </MavenGeneralSettings>\n    </option>\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 4\n}</component>\n  <component name=\"ProjectId\" id=\"2BU8qDUcrImcM8XzDBPULBD29DM\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.LeetCode19.executor\": \"Run\",\n    \"Application.LeetCode300.executor\": \"Run\",\n    \"Application.LeetCode34.executor\": \"Run\",\n    \"Application.LeetCode35.executor\": \"Run\",\n    \"Application.LeetCode354.executor\": \"Run\",\n    \"Application.LeetCode704.executor\": \"Run\",\n    \"JUnit.HasCycle.test.executor\": \"Run\",\n    \"JUnit.LeetCode21.test.executor\": \"Run\",\n    \"JUnit.LeetCode23.test.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"git-widget-placeholder\": \"master\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"C:/Users/nolau/Desktop/git/algo_learn\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"project.structure.last.edited\": \"SDKs\",\n    \"project.structure.proportion\": \"0.0\",\n    \"project.structure.side.proportion\": \"0.0\",\n    \"settings.editor.selected.configurable\": \"MavenSettings\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\nolau\\Desktop\\good\\src\\main\\resources\" />\n      <recent name=\"C:\\Users\\nolau\\Desktop\\good\\src\\main\\java\\cn\\nolaurence\\good\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"JUnit.LeetCode23.test\">\n    <configuration name=\"LeetCode19\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"cn.nolaurence.labuladong.linkedlist.LeetCode19\" />\n      <module name=\"good\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"cn.nolaurence.labuladong.linkedlist.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"LeetCode300\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"cn.nolaurence.labuladong.dp.LeetCode300\" />\n      <module name=\"good\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"cn.nolaurence.labuladong.dp.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"HasCycle.test\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"good\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"cn.nolaurence.labuladong.linkedlist.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"cn.nolaurence.labuladong.linkedlist\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"cn.nolaurence.labuladong.linkedlist.HasCycle\" />\n      <option name=\"METHOD_NAME\" value=\"test\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"LeetCode21.test\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"good\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"cn.nolaurence.labuladong.linkedlist.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"cn.nolaurence.labuladong.linkedlist\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"cn.nolaurence.labuladong.linkedlist.LeetCode21\" />\n      <option name=\"METHOD_NAME\" value=\"test\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"LeetCode23.test\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"good\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"cn.nolaurence.labuladong.linkedlist.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <option name=\"PACKAGE_NAME\" value=\"cn.nolaurence.labuladong.linkedlist\" />\n      <option name=\"MAIN_CLASS_NAME\" value=\"cn.nolaurence.labuladong.linkedlist.LeetCode23\" />\n      <option name=\"METHOD_NAME\" value=\"test\" />\n      <option name=\"TEST_OBJECT\" value=\"method\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"JUnit.LeetCode23.test\" />\n        <item itemvalue=\"JUnit.LeetCode21.test\" />\n        <item itemvalue=\"Application.LeetCode19\" />\n        <item itemvalue=\"JUnit.HasCycle.test\" />\n        <item itemvalue=\"Application.LeetCode300\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240\" />\n        <option value=\"bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"88c33fb0-bb06-4a58-9035-28f9b6a93296\" name=\"Changes\" comment=\"\" />\n      <created>1656949493950</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1656949493950</updated>\n      <workItem from=\"1656949495343\" duration=\"2147000\" />\n      <workItem from=\"1656981153107\" duration=\"16475000\" />\n      <workItem from=\"1657548042851\" duration=\"4482000\" />\n      <workItem from=\"1657719578736\" duration=\"1312000\" />\n      <workItem from=\"1658931433346\" duration=\"7508000\" />\n      <workItem from=\"1659279065602\" duration=\"611000\" />\n      <workItem from=\"1659360769266\" duration=\"2588000\" />\n      <workItem from=\"1659446490334\" duration=\"3594000\" />\n      <workItem from=\"1659624929022\" duration=\"2908000\" />\n      <workItem from=\"1659857112945\" duration=\"12924000\" />\n      <workItem from=\"1660384078331\" duration=\"3385000\" />\n      <workItem from=\"1660567913044\" duration=\"4169000\" />\n      <workItem from=\"1660747477935\" duration=\"3394000\" />\n      <workItem from=\"1661181199511\" duration=\"2115000\" />\n      <workItem from=\"1662561792846\" duration=\"739000\" />\n      <workItem from=\"1662736035953\" duration=\"599000\" />\n      <workItem from=\"1664098404381\" duration=\"29000\" />\n      <workItem from=\"1665416848765\" duration=\"1933000\" />\n      <workItem from=\"1665842113366\" duration=\"1171000\" />\n      <workItem from=\"1665843298533\" duration=\"8375000\" />\n      <workItem from=\"1666426754236\" duration=\"5969000\" />\n      <workItem from=\"1666534575227\" duration=\"391000\" />\n      <workItem from=\"1666534986995\" duration=\"432000\" />\n      <workItem from=\"1667143856910\" duration=\"9199000\" />\n      <workItem from=\"1667835603203\" duration=\"1706000\" />\n      <workItem from=\"1669817856229\" duration=\"2306000\" />\n      <workItem from=\"1670597229164\" duration=\"2738000\" />\n      <workItem from=\"1672755326157\" duration=\"646000\" />\n      <workItem from=\"1675952083027\" duration=\"1812000\" />\n      <workItem from=\"1680529955558\" duration=\"28000\" />\n      <workItem from=\"1680529993682\" duration=\"84000\" />\n      <workItem from=\"1680530089715\" duration=\"2768000\" />\n      <workItem from=\"1680532989852\" duration=\"8847000\" />\n      <workItem from=\"1681029477336\" duration=\"2045000\" />\n      <workItem from=\"1681172943385\" duration=\"1242000\" />\n      <workItem from=\"1681221477308\" duration=\"8606000\" />\n      <workItem from=\"1681739615887\" duration=\"1620000\" />\n      <workItem from=\"1681741251182\" duration=\"249000\" />\n      <workItem from=\"1681741513321\" duration=\"63000\" />\n      <workItem from=\"1681741586314\" duration=\"65000\" />\n      <workItem from=\"1681741665197\" duration=\"1491000\" />\n      <workItem from=\"1681825776329\" duration=\"907000\" />\n      <workItem from=\"1681826705912\" duration=\"197000\" />\n      <workItem from=\"1681826918554\" duration=\"4259000\" />\n      <workItem from=\"1682001409493\" duration=\"892000\" />\n      <workItem from=\"1682147815137\" duration=\"16387000\" />\n      <workItem from=\"1713539406785\" duration=\"14900000\" />\n      <workItem from=\"1713795130216\" duration=\"4937000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"添加leetcode 567\">\n      <created>1657241293379</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1657241293379</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"添加leetcode 3\">\n      <created>1657241836960</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1657241836960</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"添加leetcode 3\">\n      <created>1657549966173</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1657549966173</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"添加leetcode 3\">\n      <created>1659362669281</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1659362669281</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"update\">\n      <created>1659880160610</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1659880160610</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"add java concurrent related docs\">\n      <created>1667315358396</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1667315358396</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"sync\">\n      <created>1672755364185</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1672755364185</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"sync\">\n      <created>1681225766376</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681225766376</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"0417  0418\">\n      <created>1681831163488</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1681831163488</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"0422\">\n      <created>1682160656703</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1682160656703</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"feat: 改变good的模块名 + 引入fastjson方便输出\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1713597581372</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1713597581372</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"feat: 做了六道题\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1713607534444</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1713607534444</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"feat: 做了链表几道题\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1713799567789</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1713799567789</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"14\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"添加leetcode 567\" />\n    <MESSAGE value=\"添加leetcode 3\" />\n    <MESSAGE value=\"update\" />\n    <MESSAGE value=\"add java concurrent related docs\" />\n    <MESSAGE value=\"sync\" />\n    <MESSAGE value=\"0417  0418\" />\n    <MESSAGE value=\"0422\" />\n    <MESSAGE value=\"feat: 改变good的模块名 + 引入fastjson方便输出\" />\n    <MESSAGE value=\"feat: 做了六道题\" />\n    <MESSAGE value=\"feat: 做了链表几道题\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"feat: 做了链表几道题\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/sw/CheckInclusion.java</url>\n          <line>36</line>\n          <option name=\"timeStamp\" value=\"5\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e41bf3aed8e4e037988ab00758fbc5c09864f675)
++++ b/.idea/workspace.xml	(date 1713803303292)
+@@ -5,7 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="feat: 做了链表几道题">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/linkedlist/LeetCode23.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/dp/FibArray.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -22,21 +23,21 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "nolaurence"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;nolaurence&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GitToolBoxStore">
+     <option name="projectConfigVersion" value="5" />
+   </component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/nolaurence/algo_learn",
+-    "accountId": "7c16cbf0-9c23-4e39-ab90-a0c53b5310d8"
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/nolaurence/algo_learn&quot;,
++    &quot;accountId&quot;: &quot;7c16cbf0-9c23-4e39-ab90-a0c53b5310d8&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="HighlightingSettingsPerFile">
+     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/LinkedList.java" root0="FORCE_HIGHLIGHTING" />
+     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/PriorityQueue.java" root0="FORCE_HIGHLIGHTING" />
+@@ -51,14 +52,6 @@
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+-  <component name="MavenImportPreferences">
+-    <option name="generalSettings">
+-      <MavenGeneralSettings>
+-        <option name="customMavenHome" value="E:/DevEnvironment/apache-maven-3.8.3" />
+-        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+-      </MavenGeneralSettings>
+-    </option>
+-  </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 4
+ }</component>
+@@ -70,36 +63,36 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.LeetCode19.executor": "Run",
+-    "Application.LeetCode300.executor": "Run",
+-    "Application.LeetCode34.executor": "Run",
+-    "Application.LeetCode35.executor": "Run",
+-    "Application.LeetCode354.executor": "Run",
+-    "Application.LeetCode704.executor": "Run",
+-    "JUnit.HasCycle.test.executor": "Run",
+-    "JUnit.LeetCode21.test.executor": "Run",
+-    "JUnit.LeetCode23.test.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "git-widget-placeholder": "master",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/nolau/Desktop/git/algo_learn",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "project.structure.last.edited": "SDKs",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0",
+-    "settings.editor.selected.configurable": "MavenSettings",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.LeetCode19.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LeetCode300.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LeetCode34.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LeetCode35.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LeetCode354.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LeetCode704.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.HasCycle.test.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.LeetCode21.test.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.LeetCode23.test.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/nolau/Desktop/git/algo_learn&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\nolau\Desktop\good\src\main\resources" />
+Index: src/main/java/cn/nolaurence/labuladong/dp/FibArray.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/cn/nolaurence/labuladong/dp/FibArray.java b/src/main/java/cn/nolaurence/labuladong/dp/FibArray.java
+new file mode 100644
+--- /dev/null	(date 1713803302749)
++++ b/src/main/java/cn/nolaurence/labuladong/dp/FibArray.java	(date 1713803302749)
+@@ -0,0 +1,41 @@
++package cn.nolaurence.labuladong.dp;
++
++import org.junit.jupiter.api.Test;
++
++public class FibArray {
++
++    int fib(int N) {
++        int[] memo = new int[N+1];
++        return helper(memo, N);
++    }
++
++    int helper(int[] memo, int n) {
++        if (n == 0 || n == 1) {
++            return n;
++        }
++        if (memo[n] != 0) {
++            return memo[n];
++        }
++        memo[n] = helper(memo, n - 1) + helper(memo, n - 2);
++        return memo[n];
++    }
++
++    int newFib(int N) {
++        if (N == 0) {
++            return 0;
++        }
++        int[] dp = new int[N + 1];
++        dp[0] = 0; dp[1] = 1;
++        for (int i = 2; i <= N; i++) {
++            dp[i] = dp[i - 1] + dp[i - 2];
++        }
++        return dp[N];
++    }
++
++    int ultraFib(int n) {
++        if (n == 0 || n == 1) {
++            // base case
++            return n;
++        }
++    }
++}
