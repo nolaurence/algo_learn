@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="feat: 做了链表几道题">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/linkedlist/LeetCode23.java" afterDir="false" />
+    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="feat: lc 23">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/dp/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nolaurence"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nolaurence&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nolaurence/algo_learn",
-    "accountId": "7c16cbf0-9c23-4e39-ab90-a0c53b5310d8"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nolaurence/algo_learn&quot;,
+    &quot;accountId&quot;: &quot;7c16cbf0-9c23-4e39-ab90-a0c53b5310d8&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/LinkedList.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/PriorityQueue.java" root0="FORCE_HIGHLIGHTING" />
@@ -70,36 +72,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LeetCode19.executor": "Run",
-    "Application.LeetCode300.executor": "Run",
-    "Application.LeetCode34.executor": "Run",
-    "Application.LeetCode35.executor": "Run",
-    "Application.LeetCode354.executor": "Run",
-    "Application.LeetCode704.executor": "Run",
-    "JUnit.HasCycle.test.executor": "Run",
-    "JUnit.LeetCode21.test.executor": "Run",
-    "JUnit.LeetCode23.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nolau/Desktop/git/algo_learn",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LeetCode19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode300.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode35.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode354.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode704.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HasCycle.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LeetCode21.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LeetCode23.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nolau/Desktop/git/algo_learn&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nolau\Desktop\good\src\main\resources" />
@@ -254,7 +256,9 @@
       <workItem from="1682001409493" duration="892000" />
       <workItem from="1682147815137" duration="16387000" />
       <workItem from="1713539406785" duration="14900000" />
-      <workItem from="1713795130216" duration="4937000" />
+      <workItem from="1713795130216" duration="4980000" />
+      <workItem from="1713881100469" duration="204000" />
+      <workItem from="1713881319731" duration="2559000" />
     </task>
     <task id="LOCAL-00001" summary="添加leetcode 567">
       <created>1657241293379</created>
@@ -350,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713799567789</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat: lc 23">
+      <option name="closed" value="true" />
+      <created>1713800107220</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713800107220</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +390,8 @@
     <MESSAGE value="feat: 改变good的模块名 + 引入fastjson方便输出" />
     <MESSAGE value="feat: 做了六道题" />
     <MESSAGE value="feat: 做了链表几道题" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 做了链表几道题" />
+    <MESSAGE value="feat: lc 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: lc 23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
