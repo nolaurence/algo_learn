@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="feat: coin change and permutation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/double_pointer/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/double_pointer/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/dp/FibArray.java" afterDir="false" />
+    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="double pointer algo templates">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode1011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode793.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode852.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/binary_search/LeetCode875.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/LeetCode100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/LeetCode94.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +37,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/nolaurence/algo_learn&quot;,
-    &quot;accountId&quot;: &quot;7c16cbf0-9c23-4e39-ab90-a0c53b5310d8&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nolaurence/algo_learn.git",
+    "accountId": "5e4d4b6d-226f-4f6c-a8ec-23ed61614ce2"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/LinkedList.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/PriorityQueue.java" root0="FORCE_HIGHLIGHTING" />
@@ -76,6 +79,8 @@
     "JUnit.HasCycle.test.executor": "Run",
     "JUnit.LeetCode21.test.executor": "Run",
     "JUnit.LeetCode23.test.executor": "Run",
+    "JUnit.LeetCode793.test.executor": "Run",
+    "JUnit.LeetCode875.test.executor": "Run",
     "JUnit.ReverseArray.test.executor": "Run",
     "JUnit.TwoSum.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -103,36 +108,7 @@
       <recent name="C:\Users\nolau\Desktop\good\src\main\java\cn\nolaurence\good" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseArray.test">
-    <configuration name="LeetCode19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.labuladong.linkedlist.LeetCode19" />
-      <module name="good" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.nolaurence.labuladong.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode21.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="good" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.nolaurence.labuladong.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.nolaurence.labuladong.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.labuladong.linkedlist.LeetCode21" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LeetCode875.test">
     <configuration name="LeetCode23.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="good" />
       <extension name="coverage">
@@ -143,6 +119,38 @@
       </extension>
       <option name="PACKAGE_NAME" value="cn.nolaurence.labuladong.linkedlist" />
       <option name="MAIN_CLASS_NAME" value="cn.nolaurence.labuladong.linkedlist.LeetCode23" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode793.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="good" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.nolaurence.labuladong.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.nolaurence.labuladong.binary_search" />
+      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.labuladong.binary_search.LeetCode793" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode875.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="good" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.nolaurence.labuladong.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.nolaurence.labuladong.binary_search" />
+      <option name="MAIN_CLASS_NAME" value="cn.nolaurence.labuladong.binary_search.LeetCode875" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -183,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode875.test" />
+        <item itemvalue="JUnit.LeetCode793.test" />
         <item itemvalue="JUnit.ReverseArray.test" />
         <item itemvalue="JUnit.TwoSum.test" />
         <item itemvalue="JUnit.LeetCode23.test" />
-        <item itemvalue="JUnit.LeetCode21.test" />
-        <item itemvalue="Application.LeetCode19" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +265,7 @@
       <workItem from="1713795130216" duration="4980000" />
       <workItem from="1713881100469" duration="204000" />
       <workItem from="1713881319731" duration="4221000" />
+      <workItem from="1713889793996" duration="3620000" />
     </task>
     <task id="LOCAL-00001" summary="添加leetcode 567">
       <created>1657241293379</created>
@@ -368,7 +377,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713885755198</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="double pointer algo templates">
+      <option name="closed" value="true" />
+      <created>1713889625193</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713889625193</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +415,8 @@
     <MESSAGE value="feat: 做了链表几道题" />
     <MESSAGE value="feat: lc 23" />
     <MESSAGE value="feat: coin change and permutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: coin change and permutation" />
+    <MESSAGE value="double pointer algo templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="double pointer algo templates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
