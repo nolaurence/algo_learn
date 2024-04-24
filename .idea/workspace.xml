@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="double pointer algo templates">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/QuickSort.java" afterDir="false" />
+    <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="enter dp realm">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/dp/MaxSubArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -382,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713889625193</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="enter dp realm">
+      <option name="closed" value="true" />
+      <created>1713975265542</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713975265542</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +421,8 @@
     <MESSAGE value="feat: lc 23" />
     <MESSAGE value="feat: coin change and permutation" />
     <MESSAGE value="double pointer algo templates" />
-    <option name="LAST_COMMIT_MESSAGE" value="double pointer algo templates" />
+    <MESSAGE value="enter dp realm" />
+    <option name="LAST_COMMIT_MESSAGE" value="enter dp realm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
