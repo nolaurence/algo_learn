@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c33fb0-bb06-4a58-9035-28f9b6a93296" name="Changes" comment="double pointer algo templates">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/bt/LeetCode104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/bt/LeetCode105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/bt/LeetCode106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/bt/LeetCode144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/bt/LeetCode543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_4_22__23_57__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_4_22__23_57__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_4_24__00_13__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_4_24__00_13__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/nolaurence/labuladong/tree/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +32,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nolaurence/algo_learn",
-    "accountId": "7c16cbf0-9c23-4e39-ab90-a0c53b5310d8"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nolaurence/algo_learn&quot;,
+    &quot;accountId&quot;: &quot;7c16cbf0-9c23-4e39-ab90-a0c53b5310d8&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/LinkedList.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/BellSoft/LibericaJDK-8/src.zip!/java/util/PriorityQueue.java" root0="FORCE_HIGHLIGHTING" />
@@ -70,41 +63,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LeetCode19.executor": "Run",
-    "Application.LeetCode300.executor": "Run",
-    "Application.LeetCode34.executor": "Run",
-    "Application.LeetCode35.executor": "Run",
-    "Application.LeetCode354.executor": "Run",
-    "Application.LeetCode704.executor": "Run",
-    "JUnit.HasCycle.test.executor": "Run",
-    "JUnit.LeetCode21.test.executor": "Run",
-    "JUnit.LeetCode23.test.executor": "Run",
-    "JUnit.LeetCode793.test.executor": "Run",
-    "JUnit.LeetCode875.test.executor": "Run",
-    "JUnit.ReverseArray.test.executor": "Run",
-    "JUnit.TwoSum.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nolau/Desktop/git/algo_learn",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LeetCode19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode300.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode35.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode354.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode704.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HasCycle.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LeetCode21.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LeetCode23.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LeetCode793.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LeetCode875.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ReverseArray.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TwoSum.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nolau/Desktop/git/algo_learn&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nolau\Desktop\good\src\main\resources" />
